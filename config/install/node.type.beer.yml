@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies: {  }
+name: Beer
+type: beer
+description: 'Create new beer'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true

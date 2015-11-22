@@ -1,0 +1,5 @@
+name: Beer node type
+type: module
+core: 8.x
+description: A node type for beer
+package: Other
